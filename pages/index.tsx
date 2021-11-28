@@ -1,9 +1,9 @@
-import Item from "components/Item"
+import Hero from "../components/HomeHero"
 
 const Home = (): JSX.Element => {
     return (
         <>
-            <div>Hello</div>
+            <Hero />
         </>
             )
 }
